@@ -8,3 +8,16 @@ Template:       bigformat
 */
 
 @import url("../bigformat/style.css");
+
+/*BLACK BG ON LEFT NAV CONTAINER*/
+.navcontainer {
+  background: #000;
+}
+
+.sf-menu a, .sf-menu a:visited {
+  color: #FFF;
+}
+.navhandle {
+background-color: #ed6034;
+}
+

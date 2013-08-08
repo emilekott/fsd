@@ -16,7 +16,7 @@ body {
 /*  *Homepage Slideshow Controls
 /*-----------------------------------------------------------------------------------*/    
 
-       
+.home #controls-wrapper, .home #slide-list { display: none !important; }       
 
     
 /*-----------------------------------------------------------------------------------*/
@@ -144,7 +144,7 @@ font-style:normal;font-size:12px;font-family:"Droid Sans", arial, sans-serif !im
 /* #Slide Controls Option
 ======================================================*/
 .page-template-template-home-php #controls-wrapper, .page-template-template-home-php ul#slide-list {
-	        display: block;
+	        display: none;
 }
 
 /* #Slide Progress Bar Option
