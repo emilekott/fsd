@@ -16,8 +16,15 @@ Template:       bigformat
 
 .sf-menu a, .sf-menu a:visited {
   color: #FFF;
+  font-size: 15px !important;
 }
 .navhandle {
 background-color: #ed6034;
 }
 
+
+
+/*increase body font size*/
+p{
+  font-size: 14px !important;
+}

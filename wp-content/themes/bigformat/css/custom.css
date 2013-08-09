@@ -2,7 +2,7 @@
 /*  *Sitewide Background Image (Non-Mobile)
 /*-----------------------------------------------------------------------------------*/   
 body { 
-	 
+	background-image:url(http://localhost:8888/flipside-dance/wp-content/themes/bigformat/images/skins/textures/grain.png); 
     background-repeat:repeat; 
     background-position:center top; 
     } 
