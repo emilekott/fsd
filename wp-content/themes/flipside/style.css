@@ -19,7 +19,7 @@ Template:       bigformat
   font-size: 15px !important;
 }
 .navhandle {
-background-color: #ed6034;
+  background-color: #ed6034;
 }
 
 
@@ -33,17 +33,32 @@ p{
 /*fix cf7 styling */
 input[type="email"]{
   margin: 0 0 20px 0;
-border-style: solid;
-border-width: 1px;
-font-size: 12px;
-width: 90%;
-padding: 10px;
-background: #fff;
-color: #555;
-border-color: #e3e3e3;
+  border-style: solid;
+  border-width: 1px;
+  font-size: 12px;
+  width: 90%;
+  padding: 10px;
+  background: #fff;
+  color: #555;
+  border-color: #e3e3e3;
 }
 
 /*responsive gmap*/
 iframe.gmap{
   max-width: 100%;
+}
+
+
+
+/*acroweb*/
+#acroweb{
+  position: absolute;
+  bottom: 40px;
+  left: 20px;
+
+}
+
+#acroweb a{
+  color: #fff !important;
+  font-size: 10px;
 }
