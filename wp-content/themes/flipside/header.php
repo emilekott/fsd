@@ -161,6 +161,10 @@ else : ?>
         
     </div>
     <div class="clear"></div>
+    <div id="social">
+      <a href="http://www.facebook.com/Flipsidedance" target="_blank" ><img src="<?php bloginfo('stylesheet_directory'); ?>/images/fb.png" alt="Facebook" /></a>
+      <a href="https://twitter.com/FlipsideDance" target="_blank" ><img src="<?php bloginfo('stylesheet_directory'); ?>/images/tw.png" alt="Facebook" /></a>
+    </div>
      <div id="acroweb">
     <a href="http://acroweb.co.uk/">Web Design Chichester<a> 
   </div>
